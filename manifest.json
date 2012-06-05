@@ -1,0 +1,10 @@
+{
+  "name": "Go Back in New Tab",
+  "description": "Opens a new tab with the current tab's previous url.",
+  "version": "1.0",
+  "permissions": ["contextMenus", "tabs"],
+  "icons": { "16": "go-back-icon-16.png",
+	"48": "go-back-icon-48.png",
+	"128": "go-back-icon-128.png" },
+  "background_page": "background.html"
+}
