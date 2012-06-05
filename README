@@ -1,2 +1,8 @@
 Go back in new tab is an extension that will add a right-click
 context menu item to go back one page in a new tab.
+
+Installation:
+1. Download the files into a directory
+2. Bring up the extensions management page by clicking the wrench icon  and choosing Tools > Extensions.
+3. Click the Load unpacked extension button. A file dialog appears.
+4. In the file dialog, navigate to your extension's folder and click OK.
